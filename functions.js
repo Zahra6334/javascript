@@ -1,0 +1,7 @@
+var sayı1=Math.ceil(Math.random() *49)
+var sayı2=Math.ceil(Math.random() *49)
+var sayı3=Math.ceil(Math.random() *49)
+var sayı4=Math.ceil(Math.random() *49)
+var sayı5=Math.ceil(Math.random() *49)
+var sayı6=Math.ceil(Math.random() *49)
+console.log('Kolon:' + sayı1 +' '+sayı2 +' '+sayı3 +' '+sayı4 +' '+ sayı5 +' '+ sayı6)
