@@ -1,7 +1,12 @@
-var sayı1=Math.ceil(Math.random() *49)
-var sayı2=Math.ceil(Math.random() *49)
-var sayı3=Math.ceil(Math.random() *49)
-var sayı4=Math.ceil(Math.random() *49)
-var sayı5=Math.ceil(Math.random() *49)
-var sayı6=Math.ceil(Math.random() *49)
-console.log('Kolon:' + sayı1 +' '+sayı2 +' '+sayı3 +' '+sayı4 +' '+ sayı5 +' '+ sayı6)
+function SayiUret(){
+    console.log(Math.ceil(Math.random() * 49))
+}
+SayiUret()
+
+var sayi1=Math.ceil(Math.random() *49)
+var sayi2=Math.ceil(Math.random() *49)
+var sayi3=Math.ceil(Math.random() *49)
+var sayi4=Math.ceil(Math.random() *49)
+var sayi5=Math.ceil(Math.random() *49)
+var sayi6=Math.ceil(Math.random() *49)
+console.log('Kolon:' + sayi1 +' '+sayi2 +' '+sayi3 +' '+sayi4 +' '+ sayi5 +' '+ sayi6)
